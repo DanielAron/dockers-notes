@@ -1,7 +1,7 @@
 -- THIS IS MY NOTES ON A RAMP UP EFFORT TESTING THE DOCKER TECHONOGY AND BLUEMIX ---
 
 # Install vagrant
-> ..
+...
 # Install vagrant guest addition
 > vagrant plugin install vagrant-vbguest
 
